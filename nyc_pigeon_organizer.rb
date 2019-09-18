@@ -16,6 +16,6 @@ def nyc_pigeon_organizer(data)
         pigeon_list[name][key] << new_value.to_s
       end
     end
-  pigeon_list
   end
+  pigeon_list
 end
